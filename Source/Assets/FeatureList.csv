@@ -1,0 +1,103 @@
+Animation;EnableRefreshLocoWrappersOnUnlock;
+Animation;UseAnimSetupCaching;
+Animation;UseFishsyncDebug;
+Animation;UseLunaticMode;
+ChoiceSettings;mandatoryLookAt;
+ChoiceSettings;stickyLookAt;
+ChoiceSettings;variant2;
+Crowd;ZCutoffEnabled;
+Customization;EnableFacialSetupCustomization;
+Debug;GameFallbacksEnabled;
+Debug;LODUpdateUseRenderCamera;
+DebugConsole;EngineLogEnabled;
+Developer/FeatureToggles;Antialiasing;Disable also Screen Space Reflections, or you use this toggle.
+Developer/FeatureToggles;Bloom;Makes (Neon)Lights bloom. Disables also Lens flare effect. Eats 3-5 fps
+Developer/FeatureToggles;CharacterLightBlockers;
+Developer/FeatureToggles;CharacterRimEnhancement;
+Developer/FeatureToggles;CharacterSubsurfaceScattering;
+Developer/FeatureToggles;ChromaticAberration;
+Developer/FeatureToggles;ConstrastAdaptiveSharpening;AMD FidelityFX Contrast Adaptive Sharpening (CAS)
+Developer/FeatureToggles;ContactShadows;
+Developer/FeatureToggles;DepthOfField;
+Developer/FeatureToggles;DistantFog;
+Developer/FeatureToggles;DistantGI;Distant Global Illumination (Eats 2-5 fps)
+Developer/FeatureToggles;DistantShadows;Don't disable. (breaks lightmaps)
+Developer/FeatureToggles;DistantVolFog;
+Developer/FeatureToggles;DynamicDecals;
+Developer/FeatureToggles;FilmGrain;
+Developer/FeatureToggles;GlobalIllumination;Ugly shadows and light without it.
+Developer/FeatureToggles;Hair;
+Developer/FeatureToggles;ImageBasedFlares;ON/OFF Lens flare effect for lights
+Developer/FeatureToggles;LocalShadows;
+Developer/FeatureToggles;MotionBlur;
+Developer/FeatureToggles;RainMap;
+Developer/FeatureToggles;RuntimeTangentUpdate;
+Developer/FeatureToggles;ScreenSpaceHeatHaze;
+Developer/FeatureToggles;ScreenSpacePlanarReflection;
+Developer/FeatureToggles;ScreenSpaceRain;
+Developer/FeatureToggles;ScreenSpaceReflection;
+Developer/FeatureToggles;ScreenSpaceUnderwater;
+Developer/FeatureToggles;SSAO;
+Developer/FeatureToggles;VolumetricClouds;
+Developer/FeatureToggles;VolumetricFog;
+Developer/FeatureToggles;Weather;
+DLSS;EnableMirrorScaling;
+DRS;Enable;
+Editor/Characters/Hair/HACKS;AAAA_HACK_hairModifiedLocalLightIntensity;
+Editor/Characters/Hair;UseGlobalContactShadowsOnHair;
+Editor/Characters/Hair;UseLocalContactShadowsOnHair;
+EntityVisualController;DebugUseFOVMultiplier;
+Input/Gestures;FlickForSwipe;
+Lipsync;SyncToAudio;
+Lipsync;UseAudioAdjustment;
+Multiplayer;ClientMovementCorrection;
+Muppet;UseRealTimeForSubsteps;
+Occlusion;MultiFrustumUseGlobalOcclusion;
+RayTracing/Diffuse;UseScreenSpaceData;
+RayTracing;Enable;
+RayTracing;EnableAmbientOcclusion;
+RayTracing;EnableDiffuseIllumination;
+RayTracing;EnableDirectionalShadow;
+RayTracing;EnableDirectionalShadowCulling;
+RayTracing;EnableImportanceSampling;
+RayTracing;EnableLocalLights;
+RayTracing;EnableNRD;
+RayTracing;EnableReflection;
+RayTracing;EnableSkinning;
+RayTracing;EnableSpatialFiltering;
+RayTracing;EnableTransparentReflection;
+RayTracing;HideFPPAvatar;
+RayTracing/NRD;DiffuseAntiLag;
+RayTracing/NRD;EnableAmbientOcclusion;
+RayTracing/NRD;EnableLocalCoordinates;
+RayTracing/NRD;EnableScalingCompensation;
+RayTracing/Reflection;UseScreenSpaceData;
+RayTracing;SkyRadianceExposureScaling;
+RayTracing;UploadInstanceData;
+Rendering/AsyncCompute;BuildDepthChain;Disable for free FPS. (Should help GeForce GPUs pre-RTX 20xx, and also on older pre-Vega AMD Radeon)
+Rendering/AsyncCompute;DynamicTexture;Disable for free FPS. (Should help GeForce GPUs pre-RTX 20xx, and also on older pre-Vega AMD Radeon)
+Rendering/AsyncCompute;Enable;Disable for free FPS. (Should help GeForce GPUs pre-RTX 20xx, and also on older pre-Vega AMD Radeon)
+Rendering/AsyncCompute;FlattenNormals;Disable for free FPS. (Should help GeForce GPUs pre-RTX 20xx, and also on older pre-Vega AMD Radeon)
+Rendering/AsyncCompute;LutGeneration;Disable for free FPS. (Should help GeForce GPUs pre-RTX 20xx, and also on older pre-Vega AMD Radeon)
+Rendering/AsyncCompute;RaytraceASBuild;Disable for free FPS. (Should help GeForce GPUs pre-RTX 20xx, and also on older pre-Vega AMD Radeon)
+Rendering/AsyncCompute;SSAO;Disable for free FPS. (Should help GeForce GPUs pre-RTX 20xx, and also on older pre-Vega AMD Radeon)
+Rendering/FrostedGlass;GlassUseMipChain;Eats 2-4 FPS
+Rendering;RainMapProxySorting;
+Rendering/Shadows;CascadeFitToWorstCase;
+Rendering/Shadows;CascadeUseBackfacesAsCullingPlanes;
+Rendering;UseExperimentalVolFog;
+Rendering;UseSkinningLOD;
+SnapToTerrainIk;Enabled;
+SnapToTerrainIk;FootLockEnabled;
+Streaming/Culling/AutoHideDistanceNear;Enabled;
+Streaming/Culling/SecondaryRefPoint;Enabled;
+Streaming/Culling;VisibilityQuery;
+Vehicle;AirControlBikePitchHelper;
+Vehicle;AirControlCarRollHelper;
+Vehicle;EnableAirResistane;
+Vehicle;EnableFreeRotationResistantTorque;
+Vehicle;EnableLowVelStoppingResistance;
+Vehicle;EnableSmoothWheelContacts;
+vehicle;PhysXClampHugeImpacts;
+vehicle;PhysXClampHugeSpeeds;
+Vehicle;UseDifferential;
